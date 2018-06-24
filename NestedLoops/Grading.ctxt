@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Grading
+comment1.params=quiz
+comment1.target=java.lang.String\ setLettergrade(int)
+comment2.params=
+comment2.target=Grading()
+comment3.params=
+comment3.target=void\ main()
+numComments=4

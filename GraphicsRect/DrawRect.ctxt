@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DrawRect
+comment1.params=g
+comment1.target=void\ drawRect(java.awt.Graphics)
+comment2.params=
+comment2.target=void\ main()
+comment3.params=graph
+comment3.target=void\ paintComponent(java.awt.Graphics)
+numComments=4

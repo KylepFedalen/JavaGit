@@ -1,0 +1,15 @@
+Circle radius: 1.0
+Perimeter: 6.283185
+Area     : 3.141593
+
+Square side: 1.0
+Perimeter: 4.000000
+Area     : 1.000000
+
+RightTriangle base: 1.0 RightTriangle height: 1.0
+Perimeter: 3.414214
+Area     : 0.500000
+
+Rectangle length: 2.0 Rectangle width: 1.0
+Perimeter: 6.000000
+Area     : 2.000000
