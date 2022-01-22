@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Encapsulate
+comment1.params=
+comment1.target=Encapsulate()
+comment2.params=newadr
+comment2.target=void\ setadr(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getadr()
+comment4.params=newpin
+comment4.target=void\ setpin(int)
+comment5.params=
+comment5.target=int\ getpin()
+comment6.params=newname
+comment6.target=void\ setname(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getname()
+numComments=8

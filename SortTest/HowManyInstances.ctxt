@@ -1,4 +1,5 @@
 #BlueJ class context
-comment0.params=a\ x
-comment0.target=int\ find(int[],\ int)
-numComments=1
+comment0.target=HowManyInstances
+comment1.params=a\ x
+comment1.target=int\ find(int[],\ int)
+numComments=2
